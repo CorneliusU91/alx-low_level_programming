@@ -2,11 +2,11 @@
 
 /**
  * main - print the string in the put function
- * Description: longer description of the main function
+ * Description: using longer description of the main function
  * this program prints "consistency breed success"
  * return: 0
  */
-int main(void)//
+int main(void)
 {
 	char c;
 	int i;
