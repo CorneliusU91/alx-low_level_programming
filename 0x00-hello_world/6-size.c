@@ -3,7 +3,7 @@
 /**
  * main - print the string in the put function
  * Description: using longer description of the main function
- * this program prints "consistency breed success"
+ * this program prints "consistency breed success
  * return: 0
  */
 int main(void)
