@@ -2,7 +2,7 @@
 
 /**
  * main - print the string in the put function
- * Description: using the main function
+ * Description: longer description of the main function
  * this program prints "consistency breed success"
  * return: 0
  */
