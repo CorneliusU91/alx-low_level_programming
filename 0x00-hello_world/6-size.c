@@ -6,7 +6,7 @@
  * this program prints "consistency breed success"
  * return: 0
  */
-int main(void)
+int main(void)//
 {
 	char c;
 	int i;
