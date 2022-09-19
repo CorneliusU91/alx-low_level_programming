@@ -3,7 +3,7 @@
 
 /**
  * puts_half - function that prints half of a string
- * @str: this is the input string
+ * @str: string param
  */
 void puts_half(char *str)
 {
@@ -11,10 +11,10 @@ void puts_half(char *str)
 
 	x = strlen(str);
 	if (x % 2 == 1)
-		y = x / 2 + 1;
+	    y = x / 2 + 1; 	
 	else
-		y = x / 2;
-	for (i = y; i < x; i++)
+	    y = x / 2;
+	for  (i = y; i < x; i++)
 		_putchar(str[i]);
 	_putchar('\n');
 }
